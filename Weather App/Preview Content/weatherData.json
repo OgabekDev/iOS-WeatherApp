@@ -1,46 +1,46 @@
 
 {
     "coord": {
-        "lon":-74.006,
-        "lat":40.7143
+        "lon":63.8491,
+        "lat":41.7075
     },
     "weather": [
         {
-            "id":804,
+            "id":801,
             "main":"Clouds",
-            "description":"overcast clouds",
-            "icon":"04d"
+            "description":"few clouds",
+            "icon":"02n"
         }
     ],
     "base":"stations",
     "main": {
-        "temp":3.78,
-        "feels_like":0.35,
-        "temp_min":2.73,
-        "temp_max":4.97,
-        "pressure":1020,
-        "humidity":61
+        "temp":-2.93,
+        "feels_like":-2.93,
+        "temp_min":-2.93,
+        "temp_max":-2.93,
+        "pressure":1033,
+        "humidity":69
     },
     "visibility":10000,
     "wind": {
-        "speed":4.2,
-        "deg":296,
-        "gust":8.94
+        "speed":10.2,
+        "deg":188,
+        "gust":1.09
     },
     "clouds": {
-        "all":86
+        "all":23
     },
-    "dt":1674572150,
+    "dt":1674574900,
     "sys": {
         "type":2,
         "id":2008101,
-        "country":"US",
-        "sunrise":1674562376,
-        "sunset":1674597773
+        "country":"UZ",
+        "sunrise":1674529456,
+        "sunset":1674564510
     },
-    "timezone":-18000,
-    "id":5128581,
-    "name":"New York",
+    "timezone":18000,
+    "id":1512440,
+    "name":"Uzbekistan",
     "cod":200
 }
 
